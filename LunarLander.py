@@ -4,6 +4,7 @@ from os import path as ospath
 import pickle
 import matplotlib.pyplot as plt
 
+
 VAR_UNO_SPACE = np.linspace(-2,2,8)#se toma de la documentacion
 VAR_DOS_SPACE = np.linspace(-1,2,6)#se toman los valores en base a los maximos y minimos obtenidos
 VAR_TRES_SPACE = np.linspace(-2,2,8)#en la practica esta en radianes
